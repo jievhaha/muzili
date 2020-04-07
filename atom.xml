@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-07T01:57:17.136Z</updated>
+  <updated>2020-04-07T12:00:51.012Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2020/04/07/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2020/04/07/%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-04-07T11:59:01.000Z</published>
+    <updated>2020-04-07T12:00:51.012Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="1、新建文件测试"><a href="#1、新建文件测试" class="headerlink" title="1、新建文件测试"></a>1、新建文件测试</h4><p>使用该命令可以新建文章</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;1、新建文件测试&quot;&gt;&lt;a href=&quot;#1、新建文件测试&quot; class=&quot;headerlink&quot; title=&quot;1、新建文件测试&quot;&gt;&lt;/a&gt;1、新建文件测试&lt;/h4&gt;&lt;p&gt;使用该命令可以新建文章&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
